@@ -1,8 +1,2 @@
-<<<<<<< HEAD
 
-I don't know what this file is for
-I am modifying the master learned.txt file
-
-=======
-modification testing
->>>>>>> exercise
+This is my master file
